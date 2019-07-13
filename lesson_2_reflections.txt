@@ -5,3 +5,19 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
 R - O do repositório já é uma área salva com os arquivos alterados. O do diretório de trabalho é um local em que você
 seleciona quais arquivos vão formar um novo commit. Isso oferece mais controle ao usuário para filtrar quais arquivos
 serão alterados ou não.
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+R - Utilizando o git diff e o git diff --staged para comparar as versões alteradas e que estão atualmente no repositório.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+R - Testar novas situações, ou implementar novas possibilidades. Organizando e mantendo o estável intocável.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+R - Ao categorizar os branches e os branches-pais.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+R - Exclui e adiciona em comparação com um commit pai em comum. Porque o git salva o commit pai de cada.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+R - Prós é a rapidez e o destaque no código diferente. Um contra é a obviedade por vezes mostrada no código, mas que o git
+não é capaz de entender.
