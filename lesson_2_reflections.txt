@@ -1,0 +1,7 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+R -  É criado a pasta .git. Para ter o controle de versão do git.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+R - O do repositório já é uma área salva com os arquivos alterados. O do diretório de trabalho é um local em que você
+seleciona quais arquivos vão formar um novo commit. Isso oferece mais controle ao usuário para filtrar quais arquivos
+serão alterados ou não.
