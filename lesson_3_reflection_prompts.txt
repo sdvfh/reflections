@@ -4,3 +4,6 @@ R - Quando eu estiver trabalhando com um grupo.
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 R - Para eu ter o controle do que baixar ou não. Em outras palavras, do que ter acesso no 
 local de trabalho.
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+R - Clone você baixa, branch você cria/nomeia um commit e bifurcação é mais a nível do github.
