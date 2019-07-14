@@ -7,3 +7,6 @@ local de trabalho.
 
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 R - Clone você baixa, branch você cria/nomeia um commit e bifurcação é mais a nível do github.
+Bifurcação é para copiar o repositório de alguém para seu próprio github. Clone é para fazer
+alterações no computador e branch para salvar essas alterações de acordo com o gosto do
+usuário.
