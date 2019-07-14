@@ -10,3 +10,6 @@ R - Clone você baixa, branch você cria/nomeia um commit e bifurcação é mais
 Bifurcação é para copiar o repositório de alguém para seu próprio github. Clone é para fazer
 alterações no computador e branch para salvar essas alterações de acordo com o gosto do
 usuário.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+R - De saber as alterações feitas por outros usuários e comparar com a sua versão armazenada localmente.
