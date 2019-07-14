@@ -13,3 +13,7 @@ usuário.
 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 R - De saber as alterações feitas por outros usuários e comparar com a sua versão armazenada localmente.
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+R - Utilizando o google drive e compartilhando os arquivos. Praticamente tudo que tem no google drive ou outro aplicativo que eu usasse
+também há uma ferramenta semelhante no git, ou seja, nada seria mais fácil; pelo contrário, seria mais difícil sem o git.
